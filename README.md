@@ -1,7 +1,8 @@
 Status
 ======
 
-I don't maintain Sculptgl anymore (except small/minor fixes).
+~~ ~~I don't maintain Sculptgl anymore (except small/minor fixes).~~ ~~
+I might add/remove some things‽‽ IDK, lol `\('_')/`
 
 SculptGL - WebGL sculpting
 ==========================
